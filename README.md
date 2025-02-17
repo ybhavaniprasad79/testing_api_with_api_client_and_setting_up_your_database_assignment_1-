@@ -22,7 +22,7 @@ Each student's data includes the following fields:
     },
     "total": 433
 }
-```
+``` 
 
 - **`total`**: Represents the sum of marks across all subjects for that student.
 
